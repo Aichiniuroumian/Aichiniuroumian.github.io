@@ -7,21 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Educational Background
-======
-
-|  |  |  |
-| :--- | ---: | :--- |
-| **Huazhong Agricultural University**<br>Ph.D. Candidate in Electronic Information · Advisor: Prof. [Ying Sha](https://faculty.hzau.edu.cn/sha/zh_CN/index.htm) | Sep. 2023 – Jun. 2027 | *(Expected)* |
-| **Xinjiang University**<br>Master in Electronic Information · Advisor: Prof. [Huicheng Lai](https://it.xju.edu.cn/info/1149/1351.htm) | Sep. 2020 – Jun. 2023 | |
-| **Huanghuai University**<br>Bachelor of Communication Engineering | Sep. 2016 – Jun. 2020 | |
-
-🎈 [2026/07] I am currently on the academic job market, seeking postdoctoral, faculty, or research positions. Please feel free to get in touch if you think there may be a good fit.
-
 💻 Research Interests
 ======
 
-<p style="text-align: justify;">My research focuses on <strong>natural language processing</strong> and <strong>multimodal learning</strong>, particularly on multimodal figurative language understanding, pragmatic reasoning, multimodal content safety, and multimodal large language models. My work aims to develop benchmarks and computational methods for understanding metaphors, idioms, sarcasm, memes, and other forms of non-literal and context-dependent communication. I am always open to research collaborations, so please feel free to contact me via email.</p>
+<p style="text-align: justify;">Glad to see you here. I am Tongguan Wang, a third-year PhD student at the Huazhong Agricultural University (HZAU), supervised by Prof. <a href="https://faculty.hzau.edu.cn/sha/zh_CN/index.htm">Ying Sha</a>. My research focuses on <strong>natural language processing</strong> and <strong>multimodal learning</strong>, particularly multimodal figurative language understanding and pragmatic reasoning. I am especially interested in non-literal and context-dependent communication, including idioms, sarcasm, and memes. I am always open to research collaborations, so please feel free to contact me by email.</p>
+
+🔥 News
+======
+
+🎈 [2026/07] I am currently on the academic job market, seeking postdoctoral, faculty, or research positions. Please feel free to get in touch if you think there may be a good fit.
 
 📄 Publications
 ======
@@ -87,5 +81,14 @@ For more publications, please see my [Google Scholar](https://scholar.google.com
 - Outstanding Graduating Student, Xinjiang University, 2023
 - Xinjiang Uygur Autonomous Region Scholarship, 2023
 - Xinjiang Uygur Autonomous Region Academic Scholarship, 2021 and 2022
+
+🎓 Educational Background
+======
+
+|  |  |  |
+| :--- | ---: | :--- |
+| **Huazhong Agricultural University**<br>Ph.D. Candidate in Electronic Information · Advisor: Prof. [Ying Sha](https://faculty.hzau.edu.cn/sha/zh_CN/index.htm) | Sep. 2023 – Jun. 2027 | *(Expected)* |
+| **Xinjiang University**<br>Master in Electronic Information · Advisor: Prof. [Huicheng Lai](https://it.xju.edu.cn/info/1149/1351.htm) | Sep. 2020 – Jun. 2023 | |
+| **Huanghuai University**<br>Bachelor of Communication Engineering | Sep. 2016 – Jun. 2020 | |
 
 ![](https://komarev.com/ghpvc/?username=Aichiniuroumian)
