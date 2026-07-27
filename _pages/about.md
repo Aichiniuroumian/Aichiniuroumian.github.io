@@ -59,19 +59,19 @@ My research interests lie in natural language processing and multimodal learning
 
 ### Co-Authored Publications
 
-- Beyond Words: Enhancing Desire, Emotion, and Sentiment Recognition with Non-Verbal Cues.  
+- Beyond Words: Enhancing Desire, Emotion, and Sentiment Recognition with Non-Verbal Cues.
 <br>W. Chen, **Tongguan Wang**, F. Xue, et al. WWW, 2026. **(CCF-A)**
 
-- Chinese Two-Part Allegorical Sayings Reading Comprehension: Exploration from Reasoning to Metaphor.  
+- Chinese Two-Part Allegorical Sayings Reading Comprehension: Exploration from Reasoning to Metaphor.
 <br>D. Su, Y. Xiao, **Tongguan Wang**, et al. AAAI, 2026. **(CCF-A)**
 
-- Semantic-Aligned Structural Abstraction for Multimodal Sentiment Analysis.  
+- Semantic-Aligned Structural Abstraction for Multimodal Sentiment Analysis.
 <br>W. Chen, J. Li, **Tongguan Wang**, et al. ACM Multimedia, 2026. **(CCF-A)**
 
-- A Dual-Level Indicative Representation Learning Method for Multimodal Sarcasm Detection.  
+- A Dual-Level Indicative Representation Learning Method for Multimodal Sarcasm Detection.
 <br>Y. Zhang, G. Su, **Tongguan Wang**, et al. *Information Processing & Management*, 2026. **(JCR Q1)**
 
-- Unified Grid Tagging Scheme for Aspect Sentiment Quad Prediction.  
+- Unified Grid Tagging Scheme for Aspect Sentiment Quad Prediction.
 <br>G. Su, Y. Zhang, **Tongguan Wang**, et al. COLING, 2025. **(CCF-B)**
 
 
