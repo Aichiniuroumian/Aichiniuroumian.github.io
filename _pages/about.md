@@ -30,13 +30,13 @@ My research interests lie in natural language processing and multimodal learning
 ### First-Author Publications · \* denotes equal contribution
 
 - MChIRC: A Multimodal Benchmark for Chinese Idiom Reading Comprehension. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34728)
-<br>**Tongguan Wang\***, Wu M\*, Su G, et al. AAAI, 2025. **(CCF-A)**
+<br>**Tongguan Wang\***, Wu M\*, G. Su, et al. AAAI, 2025. **(CCF-A)**
 
 - MePe: Rethinking Multimodal Chinese Idiom Reading Comprehension from a Metaphorical Perspective. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792291)
-<br>**Tongguan Wang**, Li J, Xue F, et al. WWW, 2026. **(CCF-A)**
+<br>**Tongguan Wang**, J. Li, F. Xue, et al. WWW, 2026. **(CCF-A)**
 
 - RCLMuFN: Relational Context Learning and Multiplex Fusion Network for Multimodal Sarcasm Detection. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006604)
-<br>**Tongguan Wang**, Junkai. Li, G. Su, et al. *Knowledge-Based Systems*, 2025. **(JCR Q1)**
+<br>**Tongguan Wang**, J. Li, G. Su, et al. *Knowledge-Based Systems*, 2025. **(JCR Q1)**
 
 - BIG-TM: Bridging Individual Guidance with Trifusion MoPoE for Chinese Meme Understanding. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126008634)
 <br>**Tongguan Wang**, J. Li, F. Xue, et al. *Knowledge-Based Systems*, 2026. **(JCR Q1)**
