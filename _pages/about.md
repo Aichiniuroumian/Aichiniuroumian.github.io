@@ -1,30 +1,30 @@
 ---
 permalink: /
-title: "Personal Profile"
+title: "Tongguan Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-🎓 Educational Background 🎓
+🎓 Educational Background
 ======
 
-|  Education                                                                                                                                                                 |          Date                              |
+|                                                                                                                                                                 |                                   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------: |
-| **Huazhong Agricultural University**<br>Ph.D. Candidate in Electronic Information · Advisor: Prof. [Ying Sha](https://faculty.hzau.edu.cn/sha/zh_CN/index.htm) | **Sep. 2023 – Jun. 2027 (Expected)** |
-| **Xinjiang University**<br>Master in Electronic Information · Advisor: Prof. [Huicheng Lai](https://it.xju.edu.cn/info/1149/1351.htm)                          |            **Sep. 2020 – Jun. 2023** |
-| **Huanghuai University**<br>Bachelor of Communication Engineering                                                                                         |            **Sep. 2016 – Jun. 2020** |
+| **Huazhong Agricultural University**<br>Ph.D. Candidate in Electronic Information · Advisor: Prof. [Ying Sha](https://faculty.hzau.edu.cn/sha/zh_CN/index.htm) | Sep. 2023 – Jun. 2027 (Expected) |
+| **Xinjiang University**<br>Master in Electronic Information · Advisor: Prof. [Huicheng Lai](https://it.xju.edu.cn/info/1149/1351.htm)                          |            Sep. 2020 – Jun. 2023 |
+| **Huanghuai University**<br>Bachelor of Communication Engineering                                                                                         |            Sep. 2016 – Jun. 2020 |
 
-🎈 **[2026/07] I am currently on the academic job market, seeking postdoctoral, faculty, or research positions. Please feel free to get in touch if you think there may be a good fit.**
+🎈 [2026/07] I am currently on the academic job market, seeking postdoctoral, faculty, or research positions. Please feel free to get in touch if you think there may be a good fit.
 
-💻 Research Interests 💻
+💻 Research Interests
 ======
 
 My research interests lie in natural language processing and multimodal learning, particularly in multimodal figurative language understanding, pragmatic reasoning, multimodal content safety, and multimodal large language models. I am especially interested in developing benchmarks and computational methods for understanding metaphors, idioms, sarcasm, memes, and other forms of non-literal language. If you would like to discuss potential research collaborations, please feel free to contact me by email!
 
 
-📄 Publications 📄
+📄 Publications
 ======
 
 ### First-Author Publications · \* denotes equal contribution
@@ -75,13 +75,13 @@ My research interests lie in natural language processing and multimodal learning
 <br>G. Su, Y. Zhang, **Tongguan Wang**, et al. COLING, 2025. **(CCF-B)**
 
 
-Academic Service
+❤ Academic Service
 ======
 
 - **Reviewer:** ACL Rolling Review, AAAI, ICME, and NLPCC
 
 
-Honors
+🏆 Honors
 ======
 
 - First Prize, Annual Academic Conference, Huazhong Agricultural University, 2024 and 2025
