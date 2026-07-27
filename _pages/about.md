@@ -21,8 +21,7 @@ redirect_from:
 💻 Research Interests
 ======
 
-My research focuses on **natural language processing** and **multimodal learning**, particularly on multimodal figurative language understanding, pragmatic reasoning, multimodal content safety, and multimodal large language models. My work aims to develop benchmarks and computational methods for understanding metaphors, idioms, sarcasm, memes, and other forms of non-literal and context-dependent communication. I am always open to research collaborations, so please feel free to contact me via email.
-
+<p style="text-align: justify;">My research focuses on <strong>natural language processing</strong> and <strong>multimodal learning</strong>, particularly on multimodal figurative language understanding, pragmatic reasoning, multimodal content safety, and multimodal large language models. My work aims to develop benchmarks and computational methods for understanding metaphors, idioms, sarcasm, memes, and other forms of non-literal and context-dependent communication. I am always open to research collaborations, so please feel free to contact me via email.</p>
 
 📄 Publications
 ======
