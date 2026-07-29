@@ -34,7 +34,7 @@ redirect_from:
 - BIG-TM: Bridging Individual Guidance with Trifusion MoPoE for Chinese Meme Understanding. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126008634)
 <br>**Tongguan Wang**, J. Li, F. Xue, et al. *Knowledge-Based Systems*, 2026. **(JCR Q1)**
 
-- DFM-NC: Disentangling Fine-Grained Multiplex Non-Literal Cues for Multimodal Sentiment Analysis.
+- DFM-NC: Disentangling Fine-Grained Multiplex Non-Literal Cues for Multimodal Sentiment Analysis. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417426026862)
 <br>**Tongguan Wang**, W. Chen, F. Xue, et al. *Expert Systems with Applications*, 2026. **(JCR Q1)**
 
 - MemeScope: Probing and Causally Localizing Pragmatic Inference in LVLM Meme Understanding.
