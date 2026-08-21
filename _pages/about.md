@@ -72,7 +72,7 @@ For more publications, please see my [Google Scholar](https://scholar.google.com
 ======
 
 - **Conference Reviewer:** ACL Rolling Review, AAAI, ICME, and NLPCC.
-- **Journal Reviewer:** IEEE TNNLS, IEEE TCSVT, IEEE ACCESS, The Visual Computer, Scientific Reports, Journal of King Saud University Computer and Information Sciences
+- **Journal Reviewer:** IEEE TNNLS, IEEE TCSVT, IEEE ACCESS, The Visual Computer, Applied Soft Computing, Scientific Reports, Journal of King Saud University Computer and Information Sciences
 
 🏆 Honors
 ======
