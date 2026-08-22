@@ -28,6 +28,9 @@ redirect_from:
 - MePe: Rethinking Multimodal Chinese Idiom Reading Comprehension from a Metaphorical Perspective. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792291)
 <br>**Tongguan Wang**, J. Li, F. Xue, et al. WWW, 2026. **(CCF-A)**
 
+- MemeScope: Probing and Causally Localizing Pragmatic Inference in LVLM Meme Understanding.
+<br>**Tongguan Wang**, Y. Wu, Y. Zhou, et al. EMNLP, 2026. **(CCF-B)**
+
 - RCLMuFN: Relational Context Learning and Multiplex Fusion Network for Multimodal Sarcasm Detection. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006604)
 <br>**Tongguan Wang**, J. Li, G. Su, et al. *Knowledge-Based Systems*, 2025. **(JCR Q1)**
 
@@ -36,9 +39,6 @@ redirect_from:
 
 - DFM-NC: Disentangling Fine-Grained Multiplex Non-Literal Cues for Multimodal Sentiment Analysis. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417426026862)
 <br>**Tongguan Wang**, W. Chen, F. Xue, et al. *Expert Systems with Applications*, 2026. **(JCR Q1)**
-
-- MemeScope: Probing and Causally Localizing Pragmatic Inference in LVLM Meme Understanding.
-<br>**Tongguan Wang**, Y. Wu, Y. Zhou, et al. EMNLP, 2026. **(CCF-B)**
 
 - UFSRNet: U-Shaped Face Super-Resolution Reconstruction Network Based on Wavelet Transform. [Paper](https://link.springer.com/article/10.1007/s11042-024-18284-y)
 <br>**Tongguan Wang**, Y. Xiao, Y. Cai, et al. *Multimedia Tools and Applications*, 2024.
