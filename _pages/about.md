@@ -15,7 +15,7 @@ redirect_from:
 🔥 News
 ======
 
-🎈 [2026/07] I am currently on the academic job market, seeking postdoctoral, faculty, or research positions. Please feel free to get in touch if you think there may be a good fit.
+🎈 [2026/09] I am currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time.
 
 📄 Publications
 ======
@@ -29,7 +29,7 @@ redirect_from:
 <br>**Tongguan Wang**, J. Li, F. Xue, et al. WWW, 2026. **(CCF-A)**
 
 - MemeScope: Probing and Causally Localizing Pragmatic Inference in LVLM Meme Understanding.
-<br>**Tongguan Wang**, Y. Wu, Y. Zhou, et al. EMNLP, 2026. **(CCF-B)**
+<br>**Tongguan Wang**, Y. Wu, Y. Zhou, et al. EMNLP Main Conference, 2026. **(CCF-B)**
 
 - RCLMuFN: Relational Context Learning and Multiplex Fusion Network for Multimodal Sarcasm Detection. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006604)
 <br>**Tongguan Wang**, J. Li, G. Su, et al. *Knowledge-Based Systems*, 2025. **(JCR Q1)**
