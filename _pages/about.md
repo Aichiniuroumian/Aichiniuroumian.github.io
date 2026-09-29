@@ -15,7 +15,7 @@ redirect_from:
 🔥 News
 ======
 
-🎈 [2026/09] I am currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time. Email：wangtongguan07@gmail.com
+🎈 [2026/09] I am currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time. Contact Email: wangtongguan07@gmail.com
 
 📄 Publications
 ======
