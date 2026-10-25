@@ -15,7 +15,9 @@ redirect_from:
 🔥 News
 ======
 
-🎈 [2026/09] I am currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time. Contact Email: wangtongguan07@gmail.com
+🎈 [2026/10] I’m honored to have received the National Scholarship! Many thanks to my supervisor and all my collaborators for their support.
+
+🎈 [2026/09] I’m currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time. Contact Email: wangtongguan07@gmail.com
 
 📄 Publications
 ======
@@ -77,6 +79,7 @@ For more publications, please see my [Google Scholar](https://scholar.google.com
 🏆 Honors
 ======
 
+- National Scholarship, 2026
 - First Prize, Annual Academic Conference, Huazhong Agricultural University, 2024 and 2025
 - Outstanding Graduate Student, Huazhong Agricultural University, 2024 and 2025
 - Outstanding Graduating Student, Xinjiang University, 2023
