@@ -81,7 +81,7 @@ For more publications, please see my [Google Scholar](https://scholar.google.com
 
 - National Scholarship, 2026
 - First Prize, Annual Academic Conference, Huazhong Agricultural University, 2024 and 2025
-- Outstanding Graduate Student, Huazhong Agricultural University, 2024 and 2025
+- Outstanding Graduate Student, Huazhong Agricultural University, 2024, 2025 and 2026
 - Outstanding Graduating Student, Xinjiang University, 2023
 - Xinjiang Uygur Autonomous Region Scholarship, 2023
 - Xinjiang Uygur Autonomous Region Academic Scholarship, 2021 and 2022
