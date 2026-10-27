@@ -7,17 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-💻 Research Interests
+👨‍🎓 Education
 ======
 
-<p style="text-align: justify;">Glad to see you here. I am Tongguan Wang, a third-year PhD student at the Huazhong Agricultural University (HZAU), supervised by Prof. <a href="https://faculty.hzau.edu.cn/sha/zh_CN/index.htm">Ying Sha</a>. My research focuses on <strong>natural language processing</strong> and <strong>multimodal learning</strong>, particularly multimodal figurative language understanding and pragmatic reasoning. I am especially interested in non-literal and context-dependent communication, including idioms, sarcasm, and memes. I am always open to research collaborations, so please feel free to contact me by email.</p>
+<p style="text-align: justify;">Glad to see you here. I am Tongguan Wang, a fourth-year Ph.D. student at Huazhong Agricultural University (HZAU), under the supervision of Prof. <a href="https://faculty.hzau.edu.cn/sha/zh_CN/index.htm">Ying Sha</a>. Previously, I earned my M.S. degree from Xinjiang University (September 2020 – June 2023) under the supervision of Prof. <a href="https://it.xju.edu.cn/info/1149/1351.htm">Huicheng Lai</a>. I received my B.S. degree from Huanghuai University (September 2016 – June 2020).</p>
+
+<div style="border: 1px solid #d1d5db; background-color: #f6f8fa; padding: 14px 18px; border-radius: 6px; margin: 12px 0; box-sizing: border-box;">
+<p style="margin: 0 0 8px 0;">⭐ I’m currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time.</p>
+</div>
+
+💻 Research Interests
+======
+My research interests lie in **Natural Language Processing** and **Mutimodal Learning**, with focus on the following topics:
+
+- **Multimodal Figurative Language Understanding** (e.g., Idioms, Sarcasm, and Memes)
+- **Pragmatic Reasoning** (e.g., Non-literal and Context-dependent Communication)
+- **Interpretability of LLMs and MLLMs** (e.g., Mechanistic Interpretability, Multimodal Reasoning)
+  
+<p> I am always open to research collaborations, so please feel free to contact me by email: wangtongguan07@gmail.com</p>
 
 🔥 News
 ======
 
-🎈 [2026/10] I’m honored to have received the National Scholarship! Many thanks to my supervisor and all my collaborators for their support.
-
-🎈 [2026/09] I’m currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time. Contact Email: wangtongguan07@gmail.com
+🎈 [2026/10] I’m honored to have received the **National Scholarship**! Many thanks to my supervisor and all my collaborators for their support.
 
 📄 Publications
 ======
@@ -30,7 +42,7 @@ redirect_from:
 - MePe: Rethinking Multimodal Chinese Idiom Reading Comprehension from a Metaphorical Perspective. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792291)
 <br>**Tongguan Wang**, J. Li, F. Xue, et al. WWW, 2026. **(CCF-A)**
 
-- MemeScope: Probing and Causally Localizing Pragmatic Inference in LVLM Meme Understanding.
+- MemeScope: Probing and Causally Localizing Pragmatic Inference in LVLM Meme Understanding. [Paper](https://aclanthology.org/2026.emnlp-main.951.pdf)
 <br>**Tongguan Wang**, Y. Wu, Y. Zhou, et al. EMNLP Main Conference, 2026. **(CCF-B)**
 
 - RCLMuFN: Relational Context Learning and Multiplex Fusion Network for Multimodal Sarcasm Detection. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006604)
@@ -95,4 +107,3 @@ For more publications, please see my [Google Scholar](https://scholar.google.com
 | **Xinjiang University**<br>Master in Electronic Information · Advisor: Prof. [Huicheng Lai](https://it.xju.edu.cn/info/1149/1351.htm) | Sep. 2020 – Jun. 2023 | |
 | **Huanghuai University**<br>Bachelor of Communication Engineering | Sep. 2016 – Jun. 2020 | |
 
-![](https://komarev.com/ghpvc/?username=Aichiniuroumian)
