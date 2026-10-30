@@ -7,14 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓 Education
+👨‍🎓 Biography
 ======
 
-<p style="text-align: justify;">Glad to see you here. I am Tongguan Wang, a fourth-year Ph.D. student at Huazhong Agricultural University (HZAU), under the supervision of Prof. <a href="https://faculty.hzau.edu.cn/sha/zh_CN/index.htm">Ying Sha</a>. Previously, I earned my M.S. degree from Xinjiang University (September 2020 – June 2023) under the supervision of Prof. <a href="https://it.xju.edu.cn/info/1149/1351.htm">Huicheng Lai</a>. I received my B.S. degree from Huanghuai University (September 2016 – June 2020).</p>
-
-<div style="border: 1px solid #d1d5db; background-color: #f6f8fa; padding: 14px 18px; border-radius: 6px; margin: 12px 0; box-sizing: border-box;">
-<p style="margin: 0 0 8px 0;">⭐ I’m currently seeking a position as a postdoctoral researcher. If you think I might be suitable, please feel free to contact me at any time.</p>
-</div>
+Tongguan Wang, a fourth-year Ph.D. student at Huazhong Agricultural University, under the supervision of Prof. <a href="https://faculty.hzau.edu.cn/sha/zh_CN/index.htm">Ying Sha</a>. He has published **9** papers as the first author and co-first author, including ACL, WWW, AAAI, EMNLP, etc. In addition, he assisted his supervisor in guiding **3** undergraduate students to publish papers.
 
 💻 Research Interests
 ======
@@ -23,13 +19,15 @@ My research interests lie in **Natural Language Processing** and **Mutimodal Lea
 - **Multimodal Figurative Language Understanding** (e.g., Idioms, Sarcasm, and Memes)
 - **Pragmatic Reasoning** (e.g., Non-literal and Context-dependent Communication)
 - **Interpretability of LLMs and MLLMs** (e.g., Mechanistic Interpretability, Multimodal Reasoning)
-  
-<p> I am always open to research collaborations, so please feel free to contact me by email: wangtongguan07@gmail.com</p>
+
+<div style="border: 1px solid #d1d5db; background-color: #f6f8fa; padding: 14px 18px; border-radius: 6px; margin: 12px 0; box-sizing: border-box;">
+<p style="margin: 0 0 8px 0;">⭐ I am on the job market in the above-mentioned research area. Please contact me if you are interested.</p>
+</div>
 
 🔥 News
 ======
 
-🎈 [2026/10] I’m honored to have received the **National Scholarship**! Many thanks to my supervisor and all my collaborators for their support.
+[2026/10] 🎈 I have received the **National Scholarship**! Thanks to my supervisor and all my collaborators.
 
 📄 Publications
 ======
@@ -71,7 +69,7 @@ My research interests lie in **Natural Language Processing** and **Mutimodal Lea
 - Chinese Two-Part Allegorical Sayings Reading Comprehension: Exploration from Reasoning to Metaphor. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40588)
 <br>D. Su, Y. Xiao, **Tongguan Wang**, et al. AAAI, 2026. **(CCF-A)**
 
-- Semantic-Aligned Structural Abstraction for Multimodal Sentiment Analysis.
+- Semantic-Aligned Structural Abstraction for Multimodal Sentiment Analysis. [Paper](https://arxiv.org/abs/2607.27790)
 <br>W. Chen, J. Li, **Tongguan Wang**, et al. ACM Multimedia, 2026. **(CCF-A)**
 
 - A Dual-Level Indicative Representation Learning Method for Multimodal Sarcasm Detection. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S030645732600230X)
