@@ -10,7 +10,7 @@ redirect_from:
 👨‍🎓 Biography
 ======
 
-Tongguan Wang, a fourth-year Ph.D. student at Huazhong Agricultural University, under the supervision of Prof. <a href="https://faculty.hzau.edu.cn/sha/zh_CN/index.htm">Ying Sha</a>. He has published **9** papers as the first author and co-first author, including ACL, WWW, AAAI, EMNLP, etc. In addition, In addition, he assisted his supervisor in guiding undergraduate students to publish **3** papers.
+Tongguan Wang, a fourth-year Ph.D. student at Huazhong Agricultural University, under the supervision of Prof. <a href="https://faculty.hzau.edu.cn/sha/zh_CN/index.htm">Ying Sha</a>. He has published **9** papers as the first author and co-first author, including ACL, WWW, AAAI, EMNLP, etc. In addition, he assisted his supervisor in guiding undergraduate students to publish **3** papers, including ICME, NLPCC, ICIC.
 
 💻 Research Interests
 ======
