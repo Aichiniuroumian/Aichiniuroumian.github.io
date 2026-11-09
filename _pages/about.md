@@ -26,8 +26,9 @@ My research interests lie in **Natural Language Processing** and **Mutimodal Lea
 
 🔥 News
 ======
+[2026/11] 🎈 I have **4** posters that will appear in **CIPS-SMP 2026**, Beijing, China.
 
-[2026/10] 🎈 I have received the **National Scholarship**! Thanks to my supervisor and all my collaborators.
+[2026/10] 🎈 I received the **National Scholarship**! Thanks to my supervisor and all my collaborators.
 
 📄 Publications
 ======
